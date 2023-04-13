@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+
+}
+body {
+    background-color: aliceblue;
+}
+.container {
+    background-color: white;
+}
+.container header nav .container-fluid a {
+    margin-left: 50px;
+}
+.container header nav .container-fluid .home {
+    margin-left: 200px;
+}
+
+.container section {
+    margin-top: 50px;
+}
+
+.container .section-5 {
+    background-color: aliceblue;
+    padding: 50px;
+}
